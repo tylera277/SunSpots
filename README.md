@@ -1,0 +1,1 @@
+Studying solar sun spot occurences and seeing if I can use machine learning to predict future trends on the numbers observed per month.
